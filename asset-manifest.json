@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MBTAFenwayTimes/static/css/main.738174c8.css",
-    "main.js": "/MBTAFenwayTimes/static/js/main.95f0a16f.js",
+    "main.js": "/MBTAFenwayTimes/static/js/main.30f092fb.js",
     "static/js/787.d5b975fe.chunk.js": "/MBTAFenwayTimes/static/js/787.d5b975fe.chunk.js",
     "index.html": "/MBTAFenwayTimes/index.html",
     "main.738174c8.css.map": "/MBTAFenwayTimes/static/css/main.738174c8.css.map",
-    "main.95f0a16f.js.map": "/MBTAFenwayTimes/static/js/main.95f0a16f.js.map",
+    "main.30f092fb.js.map": "/MBTAFenwayTimes/static/js/main.30f092fb.js.map",
     "787.d5b975fe.chunk.js.map": "/MBTAFenwayTimes/static/js/787.d5b975fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.738174c8.css",
-    "static/js/main.95f0a16f.js"
+    "static/js/main.30f092fb.js"
   ]
 }
